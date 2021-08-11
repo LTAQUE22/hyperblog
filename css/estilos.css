@@ -1,6 +1,14 @@
 body{
-    color: lawngreen;
-    text-align: center;
+    color: #333;
+    text-align: left;
     font-family: "Arial ";
 
+}
+#container
+{
+    width: 70%;
+    padding: lem;
+    border: 1px solid;
+    text-align: left;
+    
 }
